@@ -25,7 +25,7 @@ Currently I do:
 * Kotlin/Java (Android development)
 * Some React Native
 * Web Development (HTML/PHP/CSS/JS)
-* Application Development (C++
+* Application Development (C++/C#/C)
 
 Currently doing development for [@AstraCore](https://github.com/AstraCore), [@Human-Charity-Coin](https://github.com/Human-Charity-Coin)
 
