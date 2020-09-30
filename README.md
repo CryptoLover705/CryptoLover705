@@ -25,8 +25,9 @@ Currently I do:
 * Kotlin/Java (Android development)
 * Some React Native
 * Web Development (HTML/PHP/CSS/JS)
+* Application Development (C++
 
-Currently doing development for the [@AstraCore](https://github.com/AstraCore)
+Currently doing development for [@AstraCore](https://github.com/AstraCore), [@Human-Charity-Coin](https://github.com/Human-Charity-Coin)
 
 <table>
   <tr>
@@ -46,7 +47,3 @@ Currently doing development for the [@AstraCore](https://github.com/AstraCore)
 
 #### Solution to All your problems!
 <img src="" style="width:100%!important;"/>
-<!--
-**Nugetzrul3/Nugetzrul3** is a âœ¨ _special_ âœ¨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
-
