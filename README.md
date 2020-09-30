@@ -24,7 +24,7 @@ Currently I do:
 * Javascript
 * Kotlin/Java (Android development)
 * Some React Native
-* Web Development (HTML/CSS/JS)
+* Web Development (HTML/PHP/CSS/JS)
 
 Currently doing development for the [@AstraCore](https://github.com/AstraCore)
 
