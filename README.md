@@ -43,7 +43,8 @@ Currently doing development for [@AstraCore](https://github.com/AstraCore), [@Hu
 #### Contact Me!
 - Telegram: [@CryptoLover705](https://telegram.me/CryptoLover705)
 - Twitter: [@CryptoLover705](https://twitter.com/CryptoLover705)
-- Discord: `CrptoLover#6396`
+- Discord: `CrptoLover#6396` Discord ID `665504410931036170`
+- YouTube: [Crypto Lover](https://youtube.com/channel/UCvGkIPSTDHvxJGVlERpjR5A)
 - Mail: support@cryptoloverbots.com
 
 #### Discord servers I run
