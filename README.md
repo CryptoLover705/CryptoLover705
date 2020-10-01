@@ -53,11 +53,10 @@ Currently doing development for [@AstraCore](https://github.com/AstraCore), [@Hu
 - server 3: [CryptoBots Test Ground](https://discord.gg/ANVHw5w)
 
 ### Intro video 
-https://youtu.be/2HZC1TOueo8
-* Views ![YouTube Video Views](https://img.shields.io/youtube/views/2HZC1TOueo8?style=social)
-* Comments ![YouTube Video Comments](https://img.shields.io/youtube/comments/2HZC1TOueo8?style=social)
-* Likes ![YouTube Video Likes](https://img.shields.io/youtube/likes/2HZC1TOueo8?style=social)
-
+https://www.youtube.com/watch?v=tGFDogXpu5Q
+* Views ![YouTube Video Views](https://img.shields.io/youtube/views/tGFDogXpu5Q?style=social)
+* Comments ![YouTube Video Comments](https://img.shields.io/youtube/comments/tGFDogXpu5Q?style=social)
+* Likes ![YouTube Video Likes](https://img.shields.io/youtube/likes/tGFDogXpu5Q?style=social)
 
 ### Server Stats
 * AstraCore ![Discord](https://img.shields.io/discord/721057795876716595)
@@ -67,6 +66,7 @@ https://youtu.be/2HZC1TOueo8
 ### Social Media Stats
 * Twitter ![Twitter Follow](https://img.shields.io/twitter/follow/CryptoLover705?style=social)
 * GitHub ![GitHub followers](https://img.shields.io/github/followers/CryptoLover705?style=social)
+
 
 ### Repo Stats
 * Forks ![GitHub forks](https://img.shields.io/github/forks/CryptoLover705/CryptoLover705?style=social)
@@ -80,7 +80,7 @@ https://youtu.be/2HZC1TOueo8
 
 
 
-#### Solution to All your problems!
+### Solution to All your problems!
 <img src="20201001_184725.jpg" style="width:100%!important;"/>
 
 
