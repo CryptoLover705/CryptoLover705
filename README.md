@@ -42,8 +42,14 @@ Currently doing development for [@AstraCore](https://github.com/AstraCore), [@Hu
 
 #### Contact Me!
 - Telegram: [@CryptoLover705](https://telegram.me/CryptoLover705)
+- Twitter: [@CryptoLover705](https://twitter.com/CryptoLover705)
 - Discord: `CrptoLover#6396`
 - Mail: support@cryptoloverbots.com
+
+#### Discord servers I run
+- server 1: [AstraCore](https://discord.gg/SHyrvZt)
+- server 2: [CryptoBots](https://discord.gg/9ZKxG7Y)
+- server 3: [CryptoBots Test Ground](https://discord.gg/ANVHw5w)
 
 #### Solution to All your problems!
 <img src="20201001_184725.jpg" style="width:100%!important;"/>
