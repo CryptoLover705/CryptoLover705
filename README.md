@@ -46,4 +46,4 @@ Currently doing development for [@AstraCore](https://github.com/AstraCore), [@Hu
 - Mail: support@cryptoloverbots.com
 
 #### Solution to All your problems!
-<img src="" style="width:100%!important;"/>
+<img src="20201001_184725.jpg" style="width:100%!important;"/>
