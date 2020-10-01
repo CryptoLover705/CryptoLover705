@@ -53,10 +53,10 @@ Currently doing development for [@AstraCore](https://github.com/AstraCore), [@Hu
 - server 3: [CryptoBots Test Ground](https://discord.gg/ANVHw5w)
 
 ### Intro video 
-https://www.youtube.com/watch?v=tGFDogXpu5Q
-* Views ![YouTube Video Views](https://img.shields.io/youtube/views/tGFDogXpu5Q?style=social)
-* Comments ![YouTube Video Comments](https://img.shields.io/youtube/comments/tGFDogXpu5Q?style=social)
-* Likes ![YouTube Video Likes](https://img.shields.io/youtube/likes/tGFDogXpu5Q?style=social)
+https://youtu.be/2HZC1TOueo8
+* Views ![YouTube Video Views](https://img.shields.io/youtube/views/2HZC1TOueo8?style=social)
+* Comments ![YouTube Video Comments](https://img.shields.io/youtube/comments/2HZC1TOueo8?style=social)
+* Likes ![YouTube Video Likes](https://img.shields.io/youtube/likes/2HZC1TOueo8?style=social)
 
 
 ### Server Stats
@@ -78,6 +78,13 @@ https://www.youtube.com/watch?v=tGFDogXpu5Q
 * Pull Requests open ![GitHub pull requests](https://img.shields.io/github/issues-pr-raw/CryptoLover705/CryptoLover705)
 * Language the bot uses most of ![GitHub top language](https://img.shields.io/github/languages/top/CryptoLover705/CryptoLover705)
 
+
+
+#### Solution to All your problems!
+<img src="20201001_184725.jpg" style="width:100%!important;"/>
+
+
+
 ### Like my work? buy me a coffee
 ### Donation Addresses 
 * CRO - `0x50542A52B2d01c807dd18e8CD7Ee1d3a2670329b`
@@ -88,7 +95,3 @@ https://www.youtube.com/watch?v=tGFDogXpu5Q
 * BTC - `3DNVMDj4VQZb31t5LkmmDyw6dZqe35SwHd` 
 * BCH - `qrrele2fl4hm2c9vw5k845g5xjmvxlcu5gpv29qy2x`
 * LTC - `MKL4WSfmhQb6Kmqcy3iRvpy7jW7WXDi6D5` 
-
-
-#### Solution to All your problems!
-<img src="20201001_184725.jpg" style="width:100%!important;"/>
