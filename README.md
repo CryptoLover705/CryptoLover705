@@ -23,9 +23,11 @@ Currently I do:
 * Python
 * Javascript
 * Kotlin/Java (Android development)
-* Some React Native
+* React Native
 * Web Development (HTML/PHP/CSS/JS)
 * Application Development (C++/C#/C)
+
+I can also do other coding languages such as `RUBY, SWIFT`
 
 Currently doing development for [@AstraCore](https://github.com/AstraCore), [@Human-Charity-Coin](https://github.com/Human-Charity-Coin)
 
