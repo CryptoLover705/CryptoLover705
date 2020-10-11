@@ -29,7 +29,7 @@ Currently I do:
 
 I can also do other coding languages such as `RUBY, SWIFT`
 
-Currently doing development for [@AstraCore](https://github.com/AstraCore), [@Human-Charity-Coin](https://github.com/Human-Charity-Coin), [Sprouts Origins](https://github.com/SproutsOrigins)
+Currently doing development for [@AstraCore](https://github.com/AstraCore), [@Human-Charity-Coin](https://github.com/Human-Charity-Coin), [@Sprouts Origins](https://github.com/SproutsOrigins)
 
 <table>
   <tr>
