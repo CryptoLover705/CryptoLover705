@@ -78,7 +78,7 @@ https://www.youtube.com/watch?v=tGFDogXpu5Q
 * Repo Size ![GitHub repo size](https://img.shields.io/github/repo-size/CryptoLover705/CryptoLover705)
 * Issues open ![GitHub issues](https://img.shields.io/github/issues-raw/CryptoLover705/CryptoLover705)
 * Pull Requests open ![GitHub pull requests](https://img.shields.io/github/issues-pr-raw/CryptoLover705/CryptoLover705)
-* 
+
 
 
 ### Solution to All your problems!
