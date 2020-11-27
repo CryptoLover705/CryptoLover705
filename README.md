@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 #### About me!
 Hi there, my name is CryptoLover.<br />
-I am a full time developer. I like to put myself to the test and try my hand at just about anything
+I am a full time developer, I like to put myself to the test and try my hand at just about anything.
 Currently the coding languages I do are as follows:
 
 * Python
