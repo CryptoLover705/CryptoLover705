@@ -29,7 +29,7 @@ Currently I do:
 
 I can also do other coding languages such as `RUBY, SWIFT, TYPESCRIPT`
 
-Currently doing development for [@AstraCore](https://github.com/AstraCore), [@Human-Charity-Coin](https://github.com/Human-Charity-Coin), [@Sprouts Origins](https://github.com/SproutsOrigins)
+🔭 I’m currently working on [@AstraCore](https://github.com/AstraCore), [@Human-Charity-Coin](https://github.com/Human-Charity-Coin), [@Sprouts Origins](https://github.com/SproutsOrigins)
 
 <table>
   <tr>
@@ -42,7 +42,8 @@ Currently doing development for [@AstraCore](https://github.com/AstraCore), [@Hu
   </tr>
 </table>
 
-#### Contact Me!
+#### 📫 How to reach me:
+
 - Telegram: [@CryptoLover705](https://telegram.me/CryptoLover705)
 - Twitter: [@CryptoLover705](https://twitter.com/CryptoLover705)
 - Discord: `CrptoLover#6396` Discord ID `665504410931036170`
