@@ -31,7 +31,7 @@ I am a full time developer, I like to put myself to the test and try my hand at 
 
 I can also do other coding languages such as `RUBY, SWIFT, TYPESCRIPT`
 
-🔭 I’m currently working on [@AstraCore](https://github.com/AstraCore), [@Human-Charity-Coin](https://github.com/Human-Charity-Coin), [@Sprouts Origins](https://github.com/SproutsOrigins)
+🔭 I’m currently working on [@AstraCore](https://github.com/AstraCore), [@Human-Charity-Coin](https://github.com/Human-Charity-Coin), [@Sprouts Origins](https://github.com/SproutsOrigins),[@NewYorkCoinNYC](https://github.com/NewYorkCoinNYC), [@NachoCoin](https://github.com/NachoCoin-Official), [@KhrysusCoin](https://github.com/Khrysus-dev)
 
 <table>
   <tr>
@@ -99,3 +99,5 @@ https://www.youtube.com/watch?v=tGFDogXpu5Q
 * BTC - `3DNVMDj4VQZb31t5LkmmDyw6dZqe35SwHd` 
 * BCH - `qrrele2fl4hm2c9vw5k845g5xjmvxlcu5gpv29qy2x`
 * LTC - `MKL4WSfmhQb6Kmqcy3iRvpy7jW7WXDi6D5` 
+* NYC - `RRoEU7GzR76eLTfEfukRTSNLLpBPrU3HCK`
+* DOGE - `D6yf9kzBT9eaq1fL8tqX57jjWeiChHB8CN`
