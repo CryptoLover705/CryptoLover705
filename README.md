@@ -44,7 +44,7 @@ I can also do other coding languages such as `RUBY, SWIFT, TYPESCRIPT`
   </tr>
 </table>
 
-#### 📫 How to reach me: 
+#### 📫 How to reach me:
 
 - Telegram: [@CryptoLover705](https://telegram.me/CryptoLover705)
 - Twitter: [@CryptoLover705](https://twitter.com/CryptoLover705)
