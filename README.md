@@ -32,16 +32,20 @@ I can also do other coding languages such as `RUBY, SWIFT, TYPESCRIPT`
 
 🔭 I’m currently working on [@AstraCore](https://github.com/AstraCore), [@Human-Charity-Coin](https://github.com/Human-Charity-Coin), [@Sprouts Origins](https://github.com/SproutsOrigins),[@NewYorkCoinNYC](https://github.com/NewYorkCoinNYC), [@KhrysusCoin](https://github.com/Khrysus-dev)
 
+<details>
+<summary>My Github Stats</summary>
+<br />
 <table>
   <tr>
     <td align="center" style="padding=0;width=50%;">
       <img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api/?username=CryptoLover705&show_icons=true&title_color=abeb0c&text_color=fa4c46&bg_color=00000000&hide_border=true&icon_color=4F8CC9&hide_title=true&count_private=true"/>
     </td>
     <td align="center" style="padding=0;width=50%;">
-      <img align="center" style="padding=0;" src="https://github-readme-stats.quantumlytangled.vercel.app/api/top-langs/?username=CryptoLover705&layout=compact&show_icons=true&title_color=abeb0c&text_color=fa4c46&bg_color=00000000&hide_border=true&icon_color=00000000&count_private=true&extra=weeb-cafe/mewchan,archives;cordisjs/cordis"/>
+      <img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CryptoLover705&layout=compact"/>
     </td>
   </tr>
 </table>
+</details>
 
 #### 📫 How to reach me:
 
