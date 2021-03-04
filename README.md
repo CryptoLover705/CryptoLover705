@@ -23,7 +23,7 @@ I am a full time developer, I like to put myself to the test and try my hand at 
 
 * Python
 * Javascript
-* Kotlin/Java (Android development)
+* Kotlin/Java (Android development) 
 * React Native
 * Web Development (HTML/PHP/CSS/JS)
 * Application Development (C++/C#/C)
