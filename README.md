@@ -48,7 +48,18 @@ To view my stats click here 👇
   </tr>
 </table>
 </details>
+<<<<<<< Updated upstream
  
+=======
+
+#### Projects
+
+Projects | Description | Status
+-------- | ----------- | ------
+[cryptoloverbots](https://github.com/CryptoLover705/cryptoloverbots.com)|Repo for my website|Activly being maintained
+
+
+>>>>>>> Stashed changes
 #### 📫 How to reach me:
 
 - Telegram: [@CryptoLover705](https://telegram.me/CryptoLover705)
