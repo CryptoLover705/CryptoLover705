@@ -106,7 +106,8 @@ https://www.youtube.com/watch?v=tGFDogXpu5Q
 ### Donation Addresses 
 * BAT - `0x36B601696ce57A0AB1268C8030A551D82182129C`
 * BCH - `qrrele2fl4hm2c9vw5k845g5xjmvxlcu5gpv29qy2x`
-* BNB - `0x36B601696ce57A0AB1268C8030A551D82182129C`
+* BNB (BSC) - `0x36B601696ce57A0AB1268C8030A551D82182129C`
+* BNB (Native chain) - `bnb12msdcpmxy96ffw473y469rahgv83dxgpsygq6e`  --- `No Memo Needed`
 * CRO - `0x36B601696ce57A0AB1268C8030A551D82182129C`
 * DOGE - `D6yf9kzBT9eaq1fL8tqX57jjWeiChHB8CN`
 * LTC - `MKL4WSfmhQb6Kmqcy3iRvpy7jW7WXDi6D5` 
