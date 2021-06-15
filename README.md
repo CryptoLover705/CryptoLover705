@@ -30,7 +30,7 @@ I am a full time developer, I like to put myself to the test and try my hand at 
 
 I can also do other coding languages such as `RUBY, SWIFT, TYPESCRIPT`
 
-🔭 I’m currently working on [@AstraCore](https://github.com/AstraCore), [@Human-Charity-Coin](https://github.com/Human-Charity-Coin), [@Sprouts Origins](https://github.com/SproutsOrigins),[@NewYorkCoinNYC](https://github.com/NewYorkCoinNYC), [@KhrysusCoin](https://github.com/Khrysus-dev)
+🔭 I’m currently working on [@AstraCore](https://github.com/AstraCore), [@Human-Charity-Coin](https://github.com/Human-Charity-Coin), [@Sprouts Origins](https://github.com/SproutsOrigins),[@NewYorkCoinNYC](https://github.com/NewYorkCoinNYC)
 
 
 To view my stats click here 👇
