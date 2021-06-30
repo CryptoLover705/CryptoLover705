@@ -54,7 +54,7 @@ To view my stats click here 👇
 
 Projects | Description | Status
 -------- | ----------- | ------
-[cryptoloverbots](https://github.com/CryptoLover705/cryptoloverbots.com)|Repo for my website|Activly being maintained
+[cryptoloverbots](https://cryptoloverbots.com)|Repo for my website|Activly being maintained
 
 
 #### 📫 How to reach me:
