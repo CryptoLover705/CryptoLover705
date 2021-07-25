@@ -69,6 +69,7 @@ Projects | Description | Status
 - server 1: [AstraCore](https://discord.gg/SHyrvZt)
 - server 2: [CryptoBots](https://discord.gg/9ZKxG7Y)
 - server 3: [CryptoBots Test Ground](https://discord.gg/ANVHw5w)
+- server 4: [Wrapped NewYorkCoin](https://discord.gg/3HjUpMkW9y)
 
 ### Intro video 
 https://www.youtube.com/watch?v=tGFDogXpu5Q
