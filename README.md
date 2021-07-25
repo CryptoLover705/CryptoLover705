@@ -55,6 +55,7 @@ To view my stats click here 👇
 Projects | Description | Status
 -------- | ----------- | ------
 [cryptoloverbots](https://cryptoloverbots.com)|Repo for my website|Activly being maintained
+[Wrapped NewYorkCoin](https://wrappednyc.com)|Repo for WNYC website|Activly being maintained
 
 
 #### 📫 How to reach me:
