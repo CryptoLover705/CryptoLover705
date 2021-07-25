@@ -81,6 +81,7 @@ https://www.youtube.com/watch?v=tGFDogXpu5Q
 * AstraCore ![Discord](https://img.shields.io/discord/721057795876716595)
 * CryptoBots ![Discord](https://img.shields.io/discord/665525153052229673) 
 * CryptoBots - Test Ground ![Discord](https://img.shields.io/discord/668058672743579658)
+* Wrapped NewYorkCoin ![Discord](https://img.shields.io/discord/823670757116084244)
 
 ### Social Media Stats
 * Twitter ![Twitter Follow](https://img.shields.io/twitter/follow/CryptoLover705?style=social)
