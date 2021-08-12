@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 #### About me! 
 Hi there, my name is CryptoLover.<br />
 I am a full time developer, I like to put myself to the test and try my hand at just about anything.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=CryptoLover705&label=Profile%20views&color=0e75b6&style=flat" alt="CryptoLover705" /> </p>
 
 #### Currently the coding languages I do are as follows:
 
