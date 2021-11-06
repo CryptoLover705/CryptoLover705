@@ -31,18 +31,6 @@ I am a full time developer, I like to put myself to the test and try my hand at 
 
 I can also do other coding languages such as `RUBY, SWIFT, TYPESCRIPT`
 
-🔭 I’m currently working on: 
-* [@AstraCore](https://github.com/AstraCore)
-* [@Human-Charity-Coin](https://github.com/Human-Charity-Coin)
-* [@Sprouts Origins](https://github.com/SproutsOrigins)
-* [@NewYorkCoinNYC](https://github.com/NewYorkCoinNYC)
-* [@WrappedNewYorkCoin](https://github.com/Wrapped-NewYorkCoin)
-* [@CryptoDevelopmentServices](https://github.com/CryptoDevelopmentServices)
-* [@NestEGGCoin](https://github.com/NestEggCrypto)
-* 
-
-
-To view my stats click here 👇
 
 <summary>My Github Stats</summary> 
 <br />
@@ -56,6 +44,19 @@ To view my stats click here 👇
     </td>
   </tr>
 </table>
+
+
+
+🔭 I’m currently working on: 
+* [@AstraCore](https://github.com/AstraCore)
+* [@Human-Charity-Coin](https://github.com/Human-Charity-Coin)
+* [@Sprouts Origins](https://github.com/SproutsOrigins)
+* [@NewYorkCoinNYC](https://github.com/NewYorkCoinNYC)
+* [@WrappedNewYorkCoin](https://github.com/Wrapped-NewYorkCoin)
+* [@CryptoDevelopmentServices](https://github.com/CryptoDevelopmentServices)
+* [@NestEGGCoin](https://github.com/NestEggCrypto)
+
+
 
  
 
