@@ -83,6 +83,7 @@ Projects | Description | Status
 - server 2: [CryptoBots](https://discord.gg/9ZKxG7Y)
 - server 3: [CryptoBots Test Ground](https://discord.gg/ANVHw5w)
 - server 4: [Wrapped NewYorkCoin](https://discord.gg/3HjUpMkW9y)
+- server 5: [CryptoDevelopmentServices](https://discord.gg/xUZNT9Zzcp)
 
 ### Intro video 
 https://www.youtube.com/watch?v=tGFDogXpu5Q
@@ -94,6 +95,7 @@ https://www.youtube.com/watch?v=tGFDogXpu5Q
 * AstraCore ![Discord](https://img.shields.io/discord/721057795876716595)
 * CryptoBots ![Discord](https://img.shields.io/discord/665525153052229673) 
 * CryptoBots - Test Ground ![Discord](https://img.shields.io/discord/668058672743579658)
+* CryptoDevelopmentServices ![Discord](https://img.shields.io/discord/820375466271178762) 
 * Wrapped NewYorkCoin ![Discord](https://img.shields.io/discord/823670757116084244)
 
 ### Social Media Stats
