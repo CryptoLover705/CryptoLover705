@@ -99,7 +99,7 @@ https://www.youtube.com/watch?v=tGFDogXpu5Q
 * Wrapped NewYorkCoin ![Discord](https://img.shields.io/discord/823670757116084244)
 
 ### Social Media Stats
-* Twitter ![Twitter Follow](https://img.shields.io/twitter/follow/CryptoLover705?style=social)
+* Twitter [![Twitter Follow]]((https://img.shields.io/twitter/follow/CryptoLover705?style=social) <img src="http://i.imgur.com/tXSoThF.png" color="blue"/>) 
 * GitHub ![GitHub followers](https://img.shields.io/github/followers/CryptoLover705?style=social)
 
 
