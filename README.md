@@ -28,8 +28,9 @@ I am a full time developer, I like to put myself to the test and try my hand at 
 * React Native
 * Web Development (HTML/PHP/CSS/JS)
 * Application Development (C++/C#/C)
+* Smart Contract Development (Solidity)
 
-I can also do other coding languages such as `RUBY, SWIFT, TYPESCRIPT`
+I can also do other coding languages such as `RUBY, SWIFT, TYPESCRIPT, RUST`
 
 
 <summary>My Github Stats</summary> 
@@ -81,9 +82,8 @@ Projects | Description | Status
 #### Discord servers I run
 - server 1: [AstraCore](https://discord.gg/SHyrvZt)
 - server 2: [CryptoBots](https://discord.gg/9ZKxG7Y)
-- server 3: [CryptoBots Test Ground](https://discord.gg/ANVHw5w)
-- server 4: [Wrapped NewYorkCoin](https://discord.gg/3HjUpMkW9y)
-- server 5: [CryptoDevelopmentServices](https://discord.gg/xUZNT9Zzcp)
+- server 3: [Wrapped NewYorkCoin](https://discord.gg/3HjUpMkW9y)
+- server 4: [CryptoDevelopmentServices](https://discord.gg/xUZNT9Zzcp)
 
 ### Intro video 
 https://www.youtube.com/watch?v=tGFDogXpu5Q
@@ -94,13 +94,16 @@ https://www.youtube.com/watch?v=tGFDogXpu5Q
 ### Server Stats
 * AstraCore ![Discord](https://img.shields.io/discord/721057795876716595)
 * CryptoBots ![Discord](https://img.shields.io/discord/665525153052229673) 
-* CryptoBots - Test Ground ![Discord](https://img.shields.io/discord/668058672743579658)
 * CryptoDevelopmentServices ![Discord](https://img.shields.io/discord/820375466271178762) 
 * Wrapped NewYorkCoin ![Discord](https://img.shields.io/discord/823670757116084244)
 
 ### Social Media Stats
-* Twitter ![Twitter Follow](https://img.shields.io/twitter/follow/CryptoLover705?style=social)
-* GitHub ![GitHub followers](https://img.shields.io/github/followers/CryptoLover705?style=social)
+* My Twitter ![Twitter Follow](https://img.shields.io/twitter/follow/CryptoLover705?style=social)
+* My GitHub ![GitHub followers](https://img.shields.io/github/followers/CryptoLover705?style=social)
+* WNYC Twitter ![Twitter Follow](https://img.shields.io/twitter/follow/Wrapped_NYC?style=social)
+* WNYC GitHub ![GitHub followers](https://img.shields.io/github/followers/Wrapped-NewYorkCoin?style=social)
+* CDS Twitter ![Twitter Follow](https://img.shields.io/twitter/follow/CryptoDevelopm3?style=social)
+* CDS GitHub ![GitHub followers](https://img.shields.io/github/followers/CryptoDevelopmentServices?style=social)
 
 
 ### Repo Stats
@@ -121,19 +124,10 @@ https://www.youtube.com/watch?v=tGFDogXpu5Q
 
 ### Like my work? buy me a coffee
 ### Donation Addresses 
-* BAT - `0x36B601696ce57A0AB1268C8030A551D82182129C`
-* BCH - `qrrele2fl4hm2c9vw5k845g5xjmvxlcu5gpv29qy2x`
-* BNB (BSC) - `0x36B601696ce57A0AB1268C8030A551D82182129C`
-* BNB (Native chain) - `bnb12msdcpmxy96ffw473y469rahgv83dxgpsygq6e`  --- `No Memo Needed`
-* CRO - `0x36B601696ce57A0AB1268C8030A551D82182129C`
-* DOGE - `D6yf9kzBT9eaq1fL8tqX57jjWeiChHB8CN`
-* LTC - `MKL4WSfmhQb6Kmqcy3iRvpy7jW7WXDi6D5` 
-* NYC - `RRoEU7GzR76eLTfEfukRTSNLLpBPrU3HCK`
-* USDC - `0x36B601696ce57A0AB1268C8030A551D82182129C`
-* USDT - `0x36B601696ce57A0AB1268C8030A551D82182129C`
-* WBTC - `0x36B601696ce57A0AB1268C8030A551D82182129C`
-* WETH - `0x36B601696ce57A0AB1268C8030A551D82182129C`
-* WNYC - `0x36B601696ce57A0AB1268C8030A551D82182129C`
+
+* BNB (BSC) - `0x136ae4016E3b19af6351EeDc1966f9468cD04197`
+* WNYC (BSC) - `0x136ae4016E3b19af6351EeDc1966f9468cD04197`
+* CDS (BSC & Polygon)- `0x136ae4016E3b19af6351EeDc1966f9468cD04197`
  
 
 
