@@ -101,9 +101,7 @@ https://www.youtube.com/watch?v=tGFDogXpu5Q
 * My Twitter ![Twitter Follow](https://img.shields.io/twitter/follow/CryptoLover705?style=social)
 * My GitHub ![GitHub followers](https://img.shields.io/github/followers/CryptoLover705?style=social)
 * WNYC Twitter ![Twitter Follow](https://img.shields.io/twitter/follow/Wrapped_NYC?style=social)
-* WNYC GitHub ![GitHub followers](https://img.shields.io/github/followers/Wrapped-NewYorkCoin?style=social)
 * CDS Twitter ![Twitter Follow](https://img.shields.io/twitter/follow/CryptoDevelopm3?style=social)
-* CDS GitHub ![GitHub followers](https://img.shields.io/github/followers/CryptoDevelopmentServices?style=social)
 
 
 ### Repo Stats
