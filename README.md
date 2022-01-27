@@ -87,15 +87,14 @@ Projects | Description | Status
 
 ### Intro video 
 https://www.youtube.com/watch?v=tGFDogXpu5Q
-* Views ![YouTube Video Views](https://img.shields.io/youtube/views/tGFDogXpu5Q?style=social)
-* Comments ![YouTube Video Comments](https://img.shields.io/youtube/comments/tGFDogXpu5Q?style=social)
-* Likes ![YouTube Video Likes](https://img.shields.io/youtube/likes/tGFDogXpu5Q?style=social)
+* Views [![YouTube Video Views](https://img.shields.io/youtube/views/tGFDogXpu5Q?style=social)](https://www.youtube.com/watch?v=tGFDogXpu5Q)
+* Comments [![YouTube Video Comments](https://img.shields.io/youtube/comments/tGFDogXpu5Q?style=social)](https://www.youtube.com/watch?v=tGFDogXpu5Q)
+* Likes [![YouTube Video Likes](https://img.shields.io/youtube/likes/tGFDogXpu5Q?style=social)](https://www.youtube.com/watch?v=tGFDogXpu5Q)
 
 ### Server Stats
-* AstraCore ![Discord](https://img.shields.io/discord/721057795876716595)
-* CryptoBots ![Discord](https://img.shields.io/discord/665525153052229673) 
-* CryptoDevelopmentServices ![Discord](https://img.shields.io/discord/820375466271178762) 
-* Wrapped NewYorkCoin ![Discord](https://img.shields.io/discord/823670757116084244)
+* CryptoBots [![Discord](https://img.shields.io/discord/665525153052229673)](https://discord.gg/9ZKxG7Y)
+* CryptoDevelopmentServices [![Discord](https://img.shields.io/discord/820375466271178762)](https://discord.gg/xUZNT9Zzcp)
+* Wrapped NewYorkCoin [![Discord](https://img.shields.io/discord/823670757116084244)](https://discord.gg/3HjUpMkW9y)
 
 ### Social Media Stats
 * My Twitter [![Twitter Follow](https://img.shields.io/twitter/follow/CryptoLover705?style=social)](https://twitter.com/CryptoLover705)
