@@ -99,9 +99,9 @@ https://www.youtube.com/watch?v=tGFDogXpu5Q
 
 ### Social Media Stats
 * My Twitter [![Twitter Follow](https://img.shields.io/twitter/follow/CryptoLover705?style=social)](https://twitter.com/CryptoLover705)
-* My GitHub ![GitHub followers](https://img.shields.io/github/followers/CryptoLover705?style=social)
-* WNYC Twitter ![Twitter Follow](https://img.shields.io/twitter/follow/Wrapped_NYC?style=social)
-* CDS Twitter ![Twitter Follow](https://img.shields.io/twitter/follow/CryptoDevelopm3?style=social)
+* My GitHub [![GitHub followers](https://img.shields.io/github/followers/CryptoLover705?style=social)](https://github.com/CryptoLover705)
+* WNYC Twitter [![Twitter Follow](https://img.shields.io/twitter/follow/Wrapped_NYC?style=social)](https://twitter.com/Wrapped_NYC)
+* CDS Twitter [![Twitter Follow](https://img.shields.io/twitter/follow/CryptoDevelopm3?style=social)](https://twitter.com/CryptoDevelopm3)
 
 
 ### Repo Stats
