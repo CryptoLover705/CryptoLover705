@@ -125,6 +125,12 @@ https://www.youtube.com/watch?v=tGFDogXpu5Q
 * BNB (BSC) - `0x136ae4016E3b19af6351EeDc1966f9468cD04197`
 * WNYC (BSC) - `0x136ae4016E3b19af6351EeDc1966f9468cD04197`
 * CDS (BSC & Polygon)- `0x136ae4016E3b19af6351EeDc1966f9468cD04197`
+  
+  [Donate BTC, LTC, DOGE](https://cryptocurrencycheckout.com/donate/gdjkSIZz78)
+  <img src="https://cryptocurrencycheckout.com/img/coins/coin_icon/btc.png" alt="Donate with Bitcoin">
+  <img src="https://cryptocurrencycheckout.com/img/coins/coin_icon/ltc.png" alt="Donate with Litecoin">
+  <img src="https://cryptocurrencycheckout.com/img/coins/coin_icon/doge.png" alt="Donate with Dogecoin">
+<!--   <img src="https://cryptocurrencycheckout.com/img/coins/coin_icon/cds.png" alt="Donate with Crypto Development Services"> -->
  
 
 
