@@ -77,7 +77,7 @@ Projects | Description | Status
 - Twitter: [@CryptoLover705](https://twitter.com/CryptoLover705)
 - Discord: `CrptoLover#6396` Discord ID `665504410931036170`
 - YouTube: [Crypto Lover](https://youtube.com/channel/UCvGkIPSTDHvxJGVlERpjR5A)
-- Mail: support@cryptoloverbots.com
+- Mail: support@cryptodevservices.com
 
 #### Discord servers I run
 - server 1: [AstraCore](https://discord.gg/SHyrvZt)
