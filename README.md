@@ -122,15 +122,19 @@ https://www.youtube.com/watch?v=tGFDogXpu5Q
 ### Like my work? buy me a coffee
 ### Donation Addresses 
 
-* BNB (BSC) - `0x136ae4016E3b19af6351EeDc1966f9468cD04197`
-* WNYC (BSC) - `0x136ae4016E3b19af6351EeDc1966f9468cD04197`
-* CDS (BSC & Polygon)- `0x136ae4016E3b19af6351EeDc1966f9468cD04197`
+* Bitcoin - `1ArAfuXpwxBQfXVRtg737bdttwbUnVfvZ5`
+* BitcoinCash - `qplk9tqzcgw9wpq8wgj4txgw9fesqvmqjs235gnmpp`
+* BNB (BEP20) - `0x1f5B9f2Fea19d470f4B36180c9D2A6EE9a3437f1`
+* Dash - `XnwhsfRNg14eg2bVuUiL5Ge9izVLgzHUt9`
+* DigiByte - `DHLKRpRF5hV8h8MCfPfUHPukE7L3EeAQM9`
+* Dogecoin - `DHCJj1NBhKioyRoUigGdoGe1qhAqaruThw`
+* Litecoin - `ltc1qphrkd5hhyz7uzhnr67cm5n20wwvrj9xwzhnq6f`
+* TRX (TRC20) - `TSf6gQ5fpWADUSo1QLvbTTQroXnRQaiDbK`
+* USDT (TRC20) - `TSf6gQ5fpWADUSo1QLvbTTQroXnRQaiDbK`
+* SOL - `6xqsMupqaJJxJDB8jZk3vyZoZthkZ5kj6XZYrsqQjMSu`
+* ZEC - `t1bYSJJ5tdbHJVxbA9LnnWb882AxtW4ENfo`
   
-  [Donate BTC, LTC, DOGE](https://cryptocurrencycheckout.com/donate/JGHHzIc1nI)
-  <img src="https://cryptocurrencycheckout.com/img/coins/coin_icon/btc.png" alt="Donate with Bitcoin">
-  <img src="https://cryptocurrencycheckout.com/img/coins/coin_icon/ltc.png" alt="Donate with Litecoin">
-  <img src="https://cryptocurrencycheckout.com/img/coins/coin_icon/doge.png" alt="Donate with Dogecoin">
-<!--   <img src="https://cryptocurrencycheckout.com/img/coins/coin_icon/cds.png" alt="Donate with Crypto Development Services"> -->
+ 
   
  
 
