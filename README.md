@@ -49,13 +49,12 @@ I can also do other coding languages such as `RUBY, SWIFT, TYPESCRIPT, RUST`
 
 
 🔭 I’m currently working on: 
-* [@AstraCore](https://github.com/AstraCore)
+
 * [@Human-Charity-Coin](https://github.com/Human-Charity-Coin)
-* [@Sprouts Origins](https://github.com/SproutsOrigins)
 * [@NewYorkCoinNYC](https://github.com/NewYorkCoinNYC)
 * [@WrappedNewYorkCoin](https://github.com/Wrapped-NewYorkCoin)
 * [@CryptoDevelopmentServices](https://github.com/CryptoDevelopmentServices)
-* [@NestEGGCoin](https://github.com/NestEggCrypto)
+
 
 
 
@@ -80,10 +79,9 @@ Projects | Description | Status
 - Mail: support@cryptodevservices.com
 
 #### Discord servers I run
-- server 1: [AstraCore](https://discord.gg/SHyrvZt)
-- server 2: [CryptoBots](https://discord.gg/9ZKxG7Y)
-- server 3: [Wrapped NewYorkCoin](https://discord.gg/3HjUpMkW9y)
-- server 4: [CryptoDevelopmentServices](https://discord.gg/xUZNT9Zzcp)
+
+- server 1: [Wrapped NewYorkCoin](https://discord.gg/3HjUpMkW9y)
+- server 2: [CryptoDevelopmentServices](https://discord.gg/cryptodevelopmentservices)
 
 ### Intro video 
 https://www.youtube.com/watch?v=tGFDogXpu5Q
@@ -92,7 +90,7 @@ https://www.youtube.com/watch?v=tGFDogXpu5Q
 * Likes [![YouTube Video Likes](https://img.shields.io/youtube/likes/tGFDogXpu5Q?style=social)](https://www.youtube.com/watch?v=tGFDogXpu5Q)
 
 ### Server Stats
-* CryptoBots [![Discord](https://img.shields.io/discord/665525153052229673)](https://discord.gg/9ZKxG7Y)
+
 * CryptoDevelopmentServices [![Discord](https://img.shields.io/discord/820375466271178762)](https://discord.gg/xUZNT9Zzcp)
 * Wrapped NewYorkCoin [![Discord](https://img.shields.io/discord/823670757116084244)](https://discord.gg/3HjUpMkW9y)
 
