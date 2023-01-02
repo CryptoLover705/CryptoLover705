@@ -16,8 +16,12 @@ Here are some ideas to get you started:
  
  
 #### About me! 
-Hi there, my name is CryptoLover.<br />
-I am a full time developer, I like to put myself to the test and try my hand at just about anything.
+
+Hi there, my name is CryptoLover. I am a full-time developer with a passion for building innovative software solutions. I have a strong background in a variety of programming languages, including Python, Java, JavaScript, and Solidity, and I am constantly seeking to expand my skills and knowledge. In my current role, I work on a range of projects, including developing smart contracts, building Android applications, and creating websites and web applications.
+
+I am always looking for new challenges and opportunities to collaborate with other developers. Some of the projects I am currently working on include the Human Charity Coin cryptocurrency, the New York Coin project, and the Wrapped New York Coin stablecoin. I am also the founder of Crypto Development Services, a company that provides a range of programming and consulting services to businesses and individuals in the cryptocurrency and blockchain space.
+
+In my free time, I enjoy staying up-to-date on the latest trends and developments in the programming world, and I am always looking for ways to improve my skills and help others learn and grow. Some of my interests and goals include working on open source projects, contributing to the development of the cryptocurrency ecosystem, and helping others learn how to code and build their own projects.
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=CryptoLover705&label=Profile%20views&color=0e75b6&style=flat" alt="CryptoLover705" /> </p>
 
 #### Currently the coding languages I do are as follows:
@@ -68,7 +72,7 @@ Projects | Description | Status
 [cryptoloverbots](https://cryptoloverbots.com)|Repo for my website|Activly being maintained
 [Wrapped NewYorkCoin](https://wrappednyc.com)|Repo for WNYC website|Activly being maintained
 
-
+## If you're interested in collaborating or have any questions about my work, feel free to reach out to me on any of the following platforms:
 
 #### 📫 How to reach me:
 
@@ -120,20 +124,16 @@ https://www.youtube.com/watch?v=tGFDogXpu5Q
 ### Like my work? buy me a coffee
 ### Donation Addresses 
 
-* Bitcoin - `1ArAfuXpwxBQfXVRtg737bdttwbUnVfvZ5`
-* BitcoinCash - `qplk9tqzcgw9wpq8wgj4txgw9fesqvmqjs235gnmpp`
+* BTC - `1ArAfuXpwxBQfXVRtg737bdttwbUnVfvZ5`
+* BTCZ - `t1UZathnxxW6eCs7ZpiHtSa6SWnSPDfm6QT`
+* BLK - `B6Wbpmy2rTGqdUbJoKUcrvpuQNcwx268sp`
+* BCH - `qplk9tqzcgw9wpq8wgj4txgw9fesqvmqjs235gnmpp`
 * BNB (BEP20) - `0x1f5B9f2Fea19d470f4B36180c9D2A6EE9a3437f1`
 * Dash - `XnwhsfRNg14eg2bVuUiL5Ge9izVLgzHUt9`
-* DigiByte - `DHLKRpRF5hV8h8MCfPfUHPukE7L3EeAQM9`
-* Dogecoin - `DHCJj1NBhKioyRoUigGdoGe1qhAqaruThw`
-* Litecoin - `ltc1qphrkd5hhyz7uzhnr67cm5n20wwvrj9xwzhnq6f`
+* DGB - `DHLKRpRF5hV8h8MCfPfUHPukE7L3EeAQM9`
+* DOGE - `DHCJj1NBhKioyRoUigGdoGe1qhAqaruThw`
+* LTC - `ltc1qphrkd5hhyz7uzhnr67cm5n20wwvrj9xwzhnq6f`
 * TRX (TRC20) - `TSf6gQ5fpWADUSo1QLvbTTQroXnRQaiDbK`
 * USDT (TRC20) - `TSf6gQ5fpWADUSo1QLvbTTQroXnRQaiDbK`
 * SOL - `6xqsMupqaJJxJDB8jZk3vyZoZthkZ5kj6XZYrsqQjMSu`
 * ZEC - `t1bYSJJ5tdbHJVxbA9LnnWb882AxtW4ENfo`
-  
- 
-  
- 
-
-
