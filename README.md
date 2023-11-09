@@ -83,7 +83,7 @@ If you're interested in collaborating or have any questions about my work, feel 
 #### Discord servers I run
 
 - server 1: [Wrapped NewYorkCoin](https://discord.gg/3HjUpMkW9y)
-- server 2: [CryptoDevelopmentServices](https://discord.gg/cryptodevelopmentservices)
+- server 2: [CryptoDevelopmentServices](https://discord.gg/bU2teyFkv2)
 
 ### Intro video 
 https://www.youtube.com/watch?v=tGFDogXpu5Q
@@ -93,7 +93,7 @@ https://www.youtube.com/watch?v=tGFDogXpu5Q
 
 ### Server Stats
 
-* CryptoDevelopmentServices [![Discord](https://img.shields.io/discord/820375466271178762)](https://discord.gg/xUZNT9Zzcp)
+* CryptoDevelopmentServices [![Discord](https://img.shields.io/discord/1157606000946327622)](https://discord.gg/bU2teyFkv2)
 * Wrapped NewYorkCoin [![Discord](https://img.shields.io/discord/823670757116084244)](https://discord.gg/3HjUpMkW9y)
 
 ### Social Media Stats
