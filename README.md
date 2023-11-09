@@ -76,7 +76,7 @@ Projects | Description | Status
 If you're interested in collaborating or have any questions about my work, feel free to reach out to me on any of the following platforms:
 - Telegram: [@CryptoLover705](https://telegram.me/CryptoLover705)
 - Twitter: [@CryptoLover705](https://twitter.com/CryptoLover705)
-- Discord: `CrptoLover#6396` Discord ID `665504410931036170`
+- Discord: `crypto_43082` Discord ID `1157581316175437884`
 - YouTube: [Crypto Lover](https://youtube.com/channel/UCvGkIPSTDHvxJGVlERpjR5A)
 - Mail: support@cryptodevservices.com
 
