@@ -119,19 +119,17 @@ https://www.youtube.com/watch?v=tGFDogXpu5Q
 
 
 
-### Like my work? buy me a coffee
+
 ### Donation Addresses 
 
-* BTC - `1ArAfuXpwxBQfXVRtg737bdttwbUnVfvZ5`
-* BTCZ - `t1UZathnxxW6eCs7ZpiHtSa6SWnSPDfm6QT`
-* BLK - `B6Wbpmy2rTGqdUbJoKUcrvpuQNcwx268sp`
-* BCH - `qplk9tqzcgw9wpq8wgj4txgw9fesqvmqjs235gnmpp`
-* BNB (BEP20) - `0x1f5B9f2Fea19d470f4B36180c9D2A6EE9a3437f1`
-* Dash - `XnwhsfRNg14eg2bVuUiL5Ge9izVLgzHUt9`
-* DGB - `DHLKRpRF5hV8h8MCfPfUHPukE7L3EeAQM9`
-* DOGE - `DHCJj1NBhKioyRoUigGdoGe1qhAqaruThw`
-* LTC - `ltc1qphrkd5hhyz7uzhnr67cm5n20wwvrj9xwzhnq6f`
-* TRX (TRC20) - `TSf6gQ5fpWADUSo1QLvbTTQroXnRQaiDbK`
-* USDT (TRC20) - `TSf6gQ5fpWADUSo1QLvbTTQroXnRQaiDbK`
-* SOL - `6xqsMupqaJJxJDB8jZk3vyZoZthkZ5kj6XZYrsqQjMSu`
-* ZEC - `t1bYSJJ5tdbHJVxbA9LnnWb882AxtW4ENfo`
+### Like what I do and want to support me?
+
+Here are some donation addresses for several currencies, if there are any that isn't listed hit me up and I will add them
+
+* `TG7Jq6dXnb6DdZHSxiY3MaNK1XbCs7N3wo` **TRX**
+* `ltc1qt3cv83xd3n2unqjyf268sgck3afpg68t77s6m5` **LTC**
+* `0x8936411d96eb7cd790caDc9e5984A56B9A4A7778` **BNB**
+* `DNwGcUtRTkq73aZ5M591h8G6k9wiDfArhL` **DOGE**
+* `tz1LZn8yp4V3NBm1dsyYmmH8RuUndtPaSw8S` **XTZ**
+
+* `0x64eCf1f9bD4eDf6267f6f4DE42Ad0979f6127727`  **Metamask** __**This one is for all tokens on any chain**__
