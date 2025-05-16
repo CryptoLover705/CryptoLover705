@@ -1,6 +1,6 @@
 ### Hi there 👋 
 <!--
-**CryptoLover705/CryptoLover705** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Dev-IT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -17,7 +17,7 @@ Here are some ideas to get you started:
  
 #### About me! 
 
-Hi there, my name is CryptoLover. I am a full-time developer with a passion for building innovative software solutions. I have a strong background in a variety of programming languages, including Python, Java, JavaScript, and Solidity, and I am constantly seeking to expand my skills and knowledge. In my current role, I work on a range of projects, including developing smart contracts, building Android applications, and creating websites and web applications.
+Hi there, my name is Sidali. I am a full-time developer with a passion for building innovative software solutions. I have a strong background in a variety of programming languages, including Python, Java, JavaScript, and Solidity, and I am constantly seeking to expand my skills and knowledge. In my current role, I work on a range of projects, including developing smart contracts, building Android applications, and creating websites and web applications.
 
 I am always looking for new challenges and opportunities to collaborate with other developers. Some of the projects I am currently working on include the Human Charity Coin project, the New York Coin project, and the Wrapped New York Coin project. I am also the founder of Crypto Development Services, a company that provides a range of programming and consulting services to businesses and individuals in the cryptocurrency and blockchain space.
 
@@ -126,10 +126,10 @@ https://www.youtube.com/watch?v=tGFDogXpu5Q
 
 Here are some donation addresses for several currencies, if there are any that isn't listed hit me up and I will add them
 
-* `TG7Jq6dXnb6DdZHSxiY3MaNK1XbCs7N3wo` **TRX**
-* `ltc1qt3cv83xd3n2unqjyf268sgck3afpg68t77s6m5` **LTC**
-* `0x8936411d96eb7cd790caDc9e5984A56B9A4A7778` **BNB**
-* `DNwGcUtRTkq73aZ5M591h8G6k9wiDfArhL` **DOGE**
-* `tz1LZn8yp4V3NBm1dsyYmmH8RuUndtPaSw8S` **XTZ**
+* `TFA1iXwiMrazuBej8a9z7eBeqGWYAYKsp6` **TRX**
+* `bc1qs2xx0h553ktc985s7wvune7u5sta3tm5ew9fwx` **BTC**
+* `0x5EE66269C958eC8E500E2D2962a02ae57dCD82a4` **BNB**
+* `DNhEVifWbjTyYmKxR9k25Lg6uUU15r25ec` **DOGE**
+* `0x5EE66269C958eC8E500E2D2962a02ae57dCD82a4` **USDT**
 
-* `0x64eCf1f9bD4eDf6267f6f4DE42Ad0979f6127727`  **Metamask** __**This one is for all tokens on any chain**__
+* `0x5EE66269C958eC8E500E2D2962a02ae57dCD82a4`  **Metamask** __**This one is for all tokens on any chain**__
