@@ -1,4 +1,4 @@
-### 👋 Welcome to My GitHub
+# 👋 Welcome to My GitHub
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=CryptoLover705&label=Profile%20views&color=0e75b6&style=flat" alt="CryptoLover705" />
@@ -6,42 +6,51 @@
 
 ---
 
-### 👨‍💻 About Me
+## 👨‍💻 About Me
 
-Hi! I’m **CryptoLover**, a full-time developer passionate about creating innovative software solutions across the cryptocurrency and blockchain ecosystems.
+Hello, and welcome! I’m **CryptoLover** — a full-time, self-driven software developer and blockchain enthusiast with a deep commitment to building robust, efficient, and forward-thinking applications across the Web2 and Web3 landscape.
 
-I specialize in:
-- 🔹 Blockchain & Smart Contract Development (Solidity)
-- 🔹 Mobile App Development (Kotlin, Java, React Native)
-- 🔹 Web Development (HTML, CSS, JS, PHP)
-- 🔹 Full Stack & Backend Systems (Python, C++, C#, Rust, etc.)
+I bring a unique combination of frontend, backend, and blockchain experience, having worked extensively on projects ranging from decentralized cryptocurrencies to full-stack mobile and web applications. My development style emphasizes scalability, security, and community-driven innovation.
 
-I am the **founder of [Crypto Development Services](https://www.cryptodevservices.co.uk)** — a collective delivering programming, consulting, and technical development for blockchain-based projects.
+### 🏢 Founder & Lead Developer  
+I’m the creator of **[Crypto Development Services](https://www.cryptodevservices.co.uk)** — a consultancy dedicated to building and supporting crypto-based platforms, tools, and ecosystems. Our mission is to empower blockchain projects with clean, functional, and maintainable code.
 
-I'm currently contributing to:
-- [Crypto Development Services](https://github.com/CryptoDevelopmentServices)
-- [AdventureCoin](https://github.com/AdventureCoin-ADVC/AdventureCoin)
-
-Past work:
-- [New York Coin](https://github.com/NewYorkCoinNYC)
-- [Wrapped New York Coin](https://github.com/Wrapped-NewYorkCoin)
-- [Human Charity Coin](https://github.com/HumanCharityCoin)
+### 🔧 Core Competencies
+- **Blockchain Development**: Smart contracts, token creation, crypto utilities  
+- **Mobile Development**: Native & cross-platform apps using Kotlin, Java, React Native  
+- **Web Development**: Modern, responsive web apps with clean UIs and optimized UX  
+- **Backend & Systems**: High-performance systems in Python, C++, Rust, and more  
+- **Crypto Integration**: Wallets, explorers, miners, and RPC-based solutions  
 
 ---
 
-### 💡 Tech Stack
+## 🧠 Notable Projects
 
-| Area | Languages / Frameworks |
-|------|-------------------------|
-| 💻 Web | HTML, CSS, JavaScript, PHP |
-| 📱 Mobile | Kotlin, Java, React Native |
-| ⚙️ Backend | Python, C++, C#, C |
-| 🌐 Blockchain | Solidity, Rust |
-| ✨ Other | Ruby, Swift, TypeScript |
+Here are a few of the public projects I’ve actively developed or contributed to:
+
+| Project | Description | Status |
+|--------|-------------|--------|
+| [Crypto Development Services](https://github.com/CryptoDevelopmentServices) | Development firm providing crypto & blockchain software services | ✅ Active |
+| [AdventureCoin](https://github.com/AdventureCoin-ADVC/AdventureCoin) | CPU-only cryptocurrency with custom miner & explorer | ✅ Active |
+| [New York Coin](https://github.com/NewYorkCoinNYC) | Community-driven crypto with historical significance | 🕒 Legacy |
+| [Wrapped New York Coin](https://github.com/Wrapped-NewYorkCoin) | ERC-20 version of NYC for DeFi & bridging | 🕒 Legacy |
+| [Human Charity Coin](https://github.com/HumanCharityCoin) | Charity-focused coin built on blockchain | 🕒 Legacy |
 
 ---
 
-### 📊 GitHub Stats
+## 💡 My Tech Stack
+
+| Category       | Tools & Languages                                                                 |
+|----------------|------------------------------------------------------------------------------------|
+| 🌐 Web         | HTML, CSS, JavaScript, PHP                                                        |
+| 📱 Mobile      | Kotlin, Java, React Native                                                        |
+| ⚙️ Backend     | Python, C++, C#, C                                                                 |
+| 🧠 Blockchain  | Solidity, Rust, Web3.js, Ethereum & UTXO-based networks                           |
+| 🌈 Other Tools | Git, Docker, Bash, TypeScript, Ruby, Swift                                        |
+
+---
+
+## 📊 GitHub Stats
 
 <table>
   <tr>
@@ -56,78 +65,72 @@ Past work:
 
 ---
 
-### 🧠 Ongoing Projects
+## 📬 Contact & Collaboration
 
-| Project | Description | Status |
-|--------|-------------|--------|
-| [Crypto Development Services](https://github.com/CryptoDevelopmentServices) | Development services & consultancy | 🔧 Actively maintained |
-| [AdventureCoin](https://github.com/AdventureCoin-ADVC/AdventureCoin) | CPU only coin | 🔧 Actively maintained |
+I’m always open to new ideas, collaborations, and freelance opportunities. Feel free to reach out via:
 
-
----
-
-### 📫 Get in Touch
-
-- 📬 Email: [cryptodevelopmentservicescds@gmail.com](mailto:cryptodevelopmentservicescds@gmail.com)  
-- 💬 Telegram: [@CryptoLover705](https://telegram.me/CryptoLover705)  
-- 🐦 Twitter: [@CryptoLover705](https://twitter.com/CryptoLover705)  
-- 🎮 Discord: `crypto_43082` (ID: 1157581316175437884)  
-- 📺 YouTube: [Crypto Lover](https://youtube.com/channel/UCvGkIPSTDHvxJGVlERpjR5A)
+- 📧 **Email**: [cryptodevelopmentservicescds@gmail.com](mailto:cryptodevelopmentservicescds@gmail.com)  
+- 💬 **Telegram**: [@CryptoLover705](https://telegram.me/CryptoLover705)  
+- 🐦 **Twitter**: [@CryptoLover705](https://twitter.com/CryptoLover705)  
+- 🎮 **Discord**: `crypto_43082` (User ID: `1157581316175437884`)  
+- 📺 **YouTube**: [Crypto Lover](https://youtube.com/channel/UCvGkIPSTDHvxJGVlERpjR5A)
 
 ---
 
-### 🌐 Community Servers
+## 🌐 Community Servers
 
-- 🪙 [AdventureCoin Discord](https://discord.gg/umwwX6QEmM)  
-- 🛠 [Crypto Development Services Discord](https://discord.gg/DjErSezN9r)
+- 🪙 **[AdventureCoin Discord](https://discord.gg/umwwX6QEmM)**  
+- 🛠 **[Crypto Development Services Discord](https://discord.gg/DjErSezN9r)**
+
+These are great spaces to connect with like-minded developers, testers, miners, and crypto enthusiasts.
 
 ---
 
-### 🎬 Featured Video
+## 🎬 Featured Video: Who I Am & What I Build
 
 [![Intro Video](https://img.youtube.com/vi/tGFDogXpu5Q/0.jpg)](https://www.youtube.com/watch?v=tGFDogXpu5Q)  
-🎥 [Watch the full intro here](https://www.youtube.com/watch?v=tGFDogXpu5Q)  
-- 👁 Views: ![Views](https://img.shields.io/youtube/views/tGFDogXpu5Q?style=social)
+🎥 **Watch Here** → [YouTube Intro](https://www.youtube.com/watch?v=tGFDogXpu5Q)
+
+- 👁️ Views: ![Views](https://img.shields.io/youtube/views/tGFDogXpu5Q?style=social)
 - 👍 Likes: ![Likes](https://img.shields.io/youtube/likes/tGFDogXpu5Q?style=social)
 - 💬 Comments: ![Comments](https://img.shields.io/youtube/comments/tGFDogXpu5Q?style=social)
 
 ---
 
-### 📊 Community & Social Stats
+## 📈 Community Stats
 
-- CDS Discord: ![Discord](https://img.shields.io/discord/1157606000946327622)
-- Twitter: ![Twitter Follow](https://img.shields.io/twitter/follow/CryptoLover705?style=social)
-- CDS Twitter: ![Twitter Follow](https://img.shields.io/twitter/follow/CryptoDevCDS?style=social)
-- GitHub: ![GitHub followers](https://img.shields.io/github/followers/CryptoLover705?style=social)
+- 📢 CDS Discord: ![Discord](https://img.shields.io/discord/1157606000946327622)  
+- 🐦 Twitter: ![Twitter Follow](https://img.shields.io/twitter/follow/CryptoLover705?style=social)  
+- 🧵 CDS Twitter: ![Twitter Follow](https://img.shields.io/twitter/follow/CryptoDevCDS?style=social)  
+- 💻 GitHub: ![GitHub followers](https://img.shields.io/github/followers/CryptoLover705?style=social)
 
 ---
 
-### 📦 Repo Activity
+## 📦 Repository Stats
 
 - ⭐ Stars: ![Stars](https://img.shields.io/github/stars/CryptoLover705/CryptoLover705?style=social)  
 - 🍴 Forks: ![Forks](https://img.shields.io/github/forks/CryptoLover705/CryptoLover705?style=social)  
 - 👀 Watchers: ![Watchers](https://img.shields.io/github/watchers/CryptoLover705/CryptoLover705?style=social)  
+- 🔁 Pull Requests: ![PRs](https://img.shields.io/github/issues-pr-raw/CryptoLover705/CryptoLover705)  
+- 🐞 Open Issues: ![Issues](https://img.shields.io/github/issues-raw/CryptoLover705/CryptoLover705)  
 - 🔄 Last Commit: ![Last Commit](https://img.shields.io/github/last-commit/CryptoLover705/CryptoLover705)  
-- 🗃 Repo Size: ![Size](https://img.shields.io/github/repo-size/CryptoLover705/CryptoLover705)  
-- 🐛 Issues: ![Issues](https://img.shields.io/github/issues-raw/CryptoLover705/CryptoLover705)  
-- 🔁 PRs: ![PRs](https://img.shields.io/github/issues-pr-raw/CryptoLover705/CryptoLover705)
+- 📦 Repo Size: ![Size](https://img.shields.io/github/repo-size/CryptoLover705/CryptoLover705)
 
 ---
 
-### ☕ Like My Work?
+## 💸 Support My Work
 
-If you'd like to support me, donations are always appreciated!  
-Feel free to contribute using any token or chain — here's my main wallet:
+If you enjoy what I do or want to help me continue contributing to the open-source and crypto communities, donations are welcome 🙏
 
+**Universal Wallet (Metamask-compatible):**
 `0xc0B254f1e80517Ea4D298a88AB9371dEec62792C`
 
-
-_(Metamask - accepts all chains & tokens)_
+💠 This address accepts tokens across **multiple chains and standards**.
 
 ---
 
-### 💬 Need a Dev? Let's Talk!
+## 🚀 Ready to Build Something Awesome?
 
-From smart contracts and token ecosystems to mobile apps and blockchain APIs — I help bring ideas to life in the crypto world. Whether it's personal projects, business collaborations, or community coins — I'm open to chat.
+I love working with creative minds, entrepreneurs, and projects that aim to disrupt and improve our world. Whether you're launching a token, building an explorer, or creating a crypto-powered app — let’s work together to make it happen.
 
-Let’s build something great together 🚀
+**Let’s connect, collaborate, and create.**
