@@ -54,7 +54,6 @@ I can also do other coding languages such as `RUBY, SWIFT, TYPESCRIPT, RUST`
 
 🔭 I’m currently working on: 
 
-* [@Human-Charity-Coin](https://github.com/Human-Charity-Coin)
 * [@NewYorkCoinNYC](https://github.com/NewYorkCoinNYC)
 * [@WrappedNewYorkCoin](https://github.com/Wrapped-NewYorkCoin)
 * [@CryptoDevelopmentServices](https://github.com/CryptoDevelopmentServices)
@@ -68,9 +67,8 @@ I can also do other coding languages such as `RUBY, SWIFT, TYPESCRIPT, RUST`
 
 Projects | Description | Status
 -------- | ----------- | ------
-[Crypto Development Services](https://www.cryptodevservices.com)|Repo for CDS website|Activly being maintained
-[cryptoloverbots](https://cryptoloverbots.com)|Repo for my website|Activly being maintained
-[Wrapped NewYorkCoin](https://wrappednyc.com)|Repo for WNYC website|Activly being maintained
+[Crypto Development Services](https://www.cryptodevservices.co.uk)|Repo for CDS website|Activly being maintained
+
 
 ### 📫 How to reach me:
 If you're interested in collaborating or have any questions about my work, feel free to reach out to me on any of the following platforms:
@@ -126,10 +124,10 @@ https://www.youtube.com/watch?v=tGFDogXpu5Q
 
 Here are some donation addresses for several currencies, if there are any that isn't listed hit me up and I will add them
 
-* `TG7Jq6dXnb6DdZHSxiY3MaNK1XbCs7N3wo` **TRX**
+/* * `TG7Jq6dXnb6DdZHSxiY3MaNK1XbCs7N3wo` **TRX**
 * `ltc1qt3cv83xd3n2unqjyf268sgck3afpg68t77s6m5` **LTC**
 * `0x8936411d96eb7cd790caDc9e5984A56B9A4A7778` **BNB**
 * `DNwGcUtRTkq73aZ5M591h8G6k9wiDfArhL` **DOGE**
-* `tz1LZn8yp4V3NBm1dsyYmmH8RuUndtPaSw8S` **XTZ**
+* `tz1LZn8yp4V3NBm1dsyYmmH8RuUndtPaSw8S` **XTZ** */
 
-* `0x64eCf1f9bD4eDf6267f6f4DE42Ad0979f6127727`  **Metamask** __**This one is for all tokens on any chain**__
+* `0xc0B254f1e80517Ea4D298a88AB9371dEec62792C`  **Metamask** __**This one is for all tokens on any chain**__
